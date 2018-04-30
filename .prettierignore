@@ -1,0 +1,8 @@
+package.json
+package-lock.json
+package-template.json
+.sourcemaps/
+coverage/
+platforms/
+plugins/
+www/
